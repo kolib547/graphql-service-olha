@@ -12,6 +12,7 @@ const items = [
   { id: 8, name: 'Item 8', price: 800 },
   { id: 9, name: 'Item 9', price: 900 },
   { id: 10, name: 'Item 10', price: 1000 },
+ { id: 11, name: 'Item 11', price: 1100 },
 ];
 
 // Схема GraphQL
